@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Fri Feb  7 11:46:46 2020
 Line Coding Encoder and Scrambler
 @author: JameeBashir
 """
