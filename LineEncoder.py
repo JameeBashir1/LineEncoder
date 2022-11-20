@@ -3,7 +3,7 @@
 """
 Created on Fri Feb  7 11:46:46 2020
 Line Coding Encoder and Scrambler
-@author: irtiqamalik
+@author: JameeBashir
 """
 
 
